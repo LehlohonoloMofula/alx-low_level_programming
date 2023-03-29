@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * puts2 - prints out the second charecterin a array
+ * puts2 - prints out the second charecters in a array
  * @str: function paramter
  * return: 0
  */
