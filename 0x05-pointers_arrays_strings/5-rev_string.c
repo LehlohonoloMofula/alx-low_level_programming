@@ -2,7 +2,7 @@
 
 /**
  * rev_strings - prints a tring in reverse
- * @s: ointer oimting to string
+ * @s: vpointer pointing to string
  * return: 0
  */
 
@@ -19,8 +19,7 @@ void rev_string(char *s)
 	while (half--)
 	{
 		temp = s[length - v - 1];
-		s[length - v - 1] = s[v];
-		s[v] = temp;
+	s[v] = temp;
 		v++;
 	}
 }
