@@ -1,4 +1,4 @@
-#include "mai§n.h"
+#include "main.h"
 
 /**
  * rev_string - prints a tring in reverse
