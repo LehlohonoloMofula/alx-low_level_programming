@@ -1,8 +1,8 @@
-#include "main.h"
+#include "mai§n.h"
 
 /**
- * rev_strings - prints a tring in reverse
- * @s: vpointer pointing to string
+ * rev_string - prints a tring in reverse
+ * @s: pointer pointing to string
  * return: 0
  */
 
